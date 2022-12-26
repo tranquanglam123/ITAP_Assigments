@@ -1,0 +1,6 @@
++ Mỗi người 5 cái : tên , cấu tạo , chuyển đổi như thế nào,công dụng.
++Viết tay trên giấy A4
++ Bộ lọc canman: Khái niệm,công thức,ứng dụng
++Víualize
++IEEE 802.15.4: tần số và tốc độ maximu
++Giao diện chuẩn truyền thông và zigbee
